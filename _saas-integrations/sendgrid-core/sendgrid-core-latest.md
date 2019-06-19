@@ -26,7 +26,8 @@ repo-url: https://github.com/singer-io/tap-sendgrid
 # -------------------------- #
 
 status: "Released"
-certified: true
+certified: false
+community: true
 
 historical: "1 year"
 frequency: "30 minutes"
